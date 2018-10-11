@@ -1,2 +1,4 @@
-# aws-test
-aws cookbook test
+# test
+
+TODO: Enter the cookbook description here.
+
